@@ -1,0 +1,4 @@
+#Sun Oct 08 18:32:03 WIB 2017
+base.0=/root/AndroidStudioProjects/DateTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/root/AndroidStudioProjects/DateTimePicker/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

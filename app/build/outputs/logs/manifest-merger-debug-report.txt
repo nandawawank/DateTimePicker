@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+application
+ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/7467d14d06fd825bf4e8c4dcbdcb302960bcb41f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/41eec1531b4e1527cb26faa8cf2cf5d3d64e7ae5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/8cdf242981440c2071f34c6c500357a6161faf82/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/37dd7cdda53c558c7a7d48d4f344acb7e4f20c8b/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/cf661d2202e4f11a3c06f44b7cd0361eeebbc156/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/4661ac3d297320168de72a3ff6db3960402963d2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/5284aa3c725916f8762d0f24ab16cb7497166596/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/e2486e1656b8afbdaad4f311cdfc4d64fca705d4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/66f5779c748ab2786be253885c58c2ffb595aa1b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/e0011a5cd015d8a24fa280e561ad254bc8930417/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.root.datetimepicker.MainActivity
+ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/7467d14d06fd825bf4e8c4dcbdcb302960bcb41f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/41eec1531b4e1527cb26faa8cf2cf5d3d64e7ae5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/8cdf242981440c2071f34c6c500357a6161faf82/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/37dd7cdda53c558c7a7d48d4f344acb7e4f20c8b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/cf661d2202e4f11a3c06f44b7cd0361eeebbc156/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/4661ac3d297320168de72a3ff6db3960402963d2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/5284aa3c725916f8762d0f24ab16cb7497166596/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/e2486e1656b8afbdaad4f311cdfc4d64fca705d4/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/66f5779c748ab2786be253885c58c2ffb595aa1b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/e0011a5cd015d8a24fa280e561ad254bc8930417/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/7467d14d06fd825bf4e8c4dcbdcb302960bcb41f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+		INJECTED from /root/AndroidStudioProjects/DateTimePicker/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/7467d14d06fd825bf4e8c4dcbdcb302960bcb41f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/41eec1531b4e1527cb26faa8cf2cf5d3d64e7ae5/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/8cdf242981440c2071f34c6c500357a6161faf82/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/cf661d2202e4f11a3c06f44b7cd0361eeebbc156/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/4661ac3d297320168de72a3ff6db3960402963d2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/5284aa3c725916f8762d0f24ab16cb7497166596/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/e2486e1656b8afbdaad4f311cdfc4d64fca705d4/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/66f5779c748ab2786be253885c58c2ffb595aa1b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/e0011a5cd015d8a24fa280e561ad254bc8930417/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/7467d14d06fd825bf4e8c4dcbdcb302960bcb41f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/7467d14d06fd825bf4e8c4dcbdcb302960bcb41f/output/AndroidManifest.xml:26:9-47
